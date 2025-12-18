@@ -17,6 +17,16 @@
   color: white;
 }
 
+.language-switcher .dropdown-item {
+  color: #212529;
+  background-color: #ffffff;
+}
+
 .language-switcher .dropdown-item:hover {
   background-color: #e9ecef;
+}
+
+.language-switcher .dropdown-menu {
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
 }

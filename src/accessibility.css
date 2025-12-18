@@ -51,7 +51,7 @@ textarea:focus-visible {
 /* Color Contrast (AA: 4.5:1 for text, AAA: 7:1) */
 body {
   color: #212529;
-  background-color: #242424;
+  background-color: #f5f5f5;
 }
 
 /* Text Readability */
@@ -276,8 +276,8 @@ table {
 }
 
 th {
-  background-color: #212529;
-  color: white;
+  background-color: #e9ecef;
+  color: #212529;
   padding: 12px;
   text-align: left;
   font-weight: 700;
@@ -287,6 +287,7 @@ th {
 td {
   padding: 12px;
   border: 1px solid #dee2e6;
+  background-color: #ffffff;
 }
 
 tbody tr:nth-child(odd) {

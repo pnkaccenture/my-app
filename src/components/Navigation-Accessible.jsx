@@ -32,7 +32,7 @@ export function Navigation() {
           <span className="navbar-toggler-icon" aria-hidden="true"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav ms-auto" role="menubar">
+          <ul className="navbar-nav me-auto" role="menubar">
             <li className="nav-item" role="none">
               <Link
                 className={`nav-link ${isActive("/")}`}

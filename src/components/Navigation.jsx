@@ -11,7 +11,10 @@ export function Navigation() {
   };
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+    <nav
+      className="navbar navbar-expand-lg navbar-light bg-light sticky-top"
+      style={{ boxShadow: "0 2px 4px rgba(0,0,0,0.1)" }}
+    >
       <div className="container-fluid">
         <Link className="navbar-brand" to="/">
           <i className="fas fa-rocket"></i> MyApp
@@ -28,7 +31,7 @@ export function Navigation() {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav ms-auto">
+          <ul className="navbar-nav me-auto">
             <li className="nav-item">
               <Link className={`nav-link ${isActive("/")}`} to="/">
                 <i className="fas fa-home"></i> {t("home")}

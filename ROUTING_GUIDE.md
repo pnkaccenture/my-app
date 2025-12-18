@@ -71,7 +71,7 @@ export function NewPage() {
   const { t } = useTranslation();
 
   return (
-    <div className="container mt-5">
+    <div className="container-fluid mt-5">
       <h1>{t("newPageTitle")}</h1>
       {/* Your content */}
     </div>

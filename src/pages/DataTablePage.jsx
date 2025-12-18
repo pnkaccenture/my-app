@@ -71,7 +71,7 @@ export function DataTablePage() {
   };
 
   return (
-    <div className="container mt-5 mb-5">
+    <div className="container-fluid mt-5 mb-5">
       <div className="row justify-content-center">
         <div className="col-md-12">
           <div className="d-flex justify-content-between align-items-center mb-4">
