@@ -8,5 +8,21 @@
   "description": "C'est une application React multilingue avec le style Bootstrap",
   "counter": "Compteur",
   "countMessage": "le compte est {{count}}",
-  "editInstructions": "Modifiez src/App.jsx et enregistrez pour tester HMR"
+  "editInstructions": "Modifiez src/App.jsx et enregistrez pour tester HMR",
+  "homeTitle": "Bienvenue à l'accueil",
+  "homeDescription": "C'est la page d'accueil. Naviguez dans les pages à l'aide de la barre de navigation.",
+  "aboutTitle": "À propos",
+  "aboutDescription": "En savoir plus sur notre application. Cette page fournit des informations sur ce que nous faisons.",
+  "servicesTitle": "Nos Services",
+  "servicesDescription": "Nous offrons une variété de services conçus pour répondre à vos besoins.",
+  "contactTitle": "Nous Contacter",
+  "contactDescription": "Entrez en contact avec nous. Nous serions heureux de vous entendre.",
+  "service1": "Service 1 - Développement Web",
+  "service2": "Service 2 - Développement Mobile",
+  "service3": "Service 3 - Solutions Cloud",
+  "service4": "Service 4 - Conseil",
+  "email": "Email: info@example.com",
+  "phone": "Téléphone: +1 (555) 123-4567",
+  "address": "Adresse: 123 Rue Principale, Ville, Pays",
+  "navigation": "Navigation"
 }

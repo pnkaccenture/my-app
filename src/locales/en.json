@@ -8,5 +8,21 @@
   "description": "This is a multilingual React app with Bootstrap styling",
   "counter": "Counter",
   "countMessage": "count is {{count}}",
-  "editInstructions": "Edit src/App.jsx and save to test HMR"
+  "editInstructions": "Edit src/App.jsx and save to test HMR",
+  "homeTitle": "Welcome to Home",
+  "homeDescription": "This is the home page. Navigate through the pages using the navigation bar.",
+  "aboutTitle": "About Us",
+  "aboutDescription": "Learn more about our application. This page provides information about what we do.",
+  "servicesTitle": "Our Services",
+  "servicesDescription": "We offer a variety of services designed to meet your needs.",
+  "contactTitle": "Contact Us",
+  "contactDescription": "Get in touch with us. We would love to hear from you.",
+  "service1": "Service 1 - Web Development",
+  "service2": "Service 2 - Mobile Development",
+  "service3": "Service 3 - Cloud Solutions",
+  "service4": "Service 4 - Consulting",
+  "email": "Email: info@example.com",
+  "phone": "Phone: +1 (555) 123-4567",
+  "address": "Address: 123 Main Street, City, Country",
+  "navigation": "Navigation"
 }
