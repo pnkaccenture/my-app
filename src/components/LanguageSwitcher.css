@@ -1,0 +1,22 @@
+.language-switcher {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.language-switcher .btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 500;
+}
+
+.language-switcher .dropdown-item.active {
+  background-color: #0d6efd;
+  color: white;
+}
+
+.language-switcher .dropdown-item:hover {
+  background-color: #e9ecef;
+}

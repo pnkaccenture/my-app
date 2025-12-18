@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome",
+  "home": "Home",
+  "language": "Language",
+  "english": "English",
+  "french": "Français",
+  "selectLanguage": "Select Language",
+  "description": "This is a multilingual React app with Bootstrap styling",
+  "counter": "Counter",
+  "countMessage": "count is {{count}}",
+  "editInstructions": "Edit src/App.jsx and save to test HMR"
+}
