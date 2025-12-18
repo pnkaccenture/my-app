@@ -55,6 +55,14 @@ export function Navigation() {
                 <i className="fas fa-envelope"></i> {t("contactTitle")}
               </Link>
             </li>
+            <li className="nav-item">
+              <Link
+                className={`nav-link ${isActive("/data-table")}`}
+                to="/data-table"
+              >
+                <i className="fas fa-table"></i> {t("dataTableTitle")}
+              </Link>
+            </li>
           </ul>
         </div>
       </div>

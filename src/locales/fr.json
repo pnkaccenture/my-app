@@ -24,5 +24,17 @@
   "email": "Email: info@example.com",
   "phone": "Téléphone: +1 (555) 123-4567",
   "address": "Adresse: 123 Rue Principale, Ville, Pays",
-  "navigation": "Navigation"
+  "navigation": "Navigation",
+  "dataTableTitle": "Tableau de Données",
+  "refresh": "Actualiser",
+  "searchPlaceholder": "Rechercher des articles par titre ou contenu...",
+  "loading": "Chargement des données...",
+  "error": "Erreur",
+  "id": "ID",
+  "userId": "ID Utilisateur",
+  "title": "Titre",
+  "body": "Contenu",
+  "noResults": "Aucun résultat trouvé",
+  "showingResults": "Affichage",
+  "dataInfo": "Ce tableau affiche les données récupérées depuis l'API JSONPlaceholder. Utilisez la zone de recherche pour filtrer les résultats."
 }

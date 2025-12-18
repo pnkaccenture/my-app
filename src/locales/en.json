@@ -24,5 +24,17 @@
   "email": "Email: info@example.com",
   "phone": "Phone: +1 (555) 123-4567",
   "address": "Address: 123 Main Street, City, Country",
-  "navigation": "Navigation"
+  "navigation": "Navigation",
+  "dataTableTitle": "Data Table",
+  "refresh": "Refresh",
+  "searchPlaceholder": "Search posts by title or content...",
+  "loading": "Loading data...",
+  "error": "Error",
+  "id": "ID",
+  "userId": "User ID",
+  "title": "Title",
+  "body": "Content",
+  "noResults": "No results found",
+  "showingResults": "Showing",
+  "dataInfo": "This table displays data fetched from JSONPlaceholder API. Use the search box to filter results."
 }
