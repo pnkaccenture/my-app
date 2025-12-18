@@ -36,5 +36,10 @@
   "body": "Contenu",
   "noResults": "Aucun résultat trouvé",
   "showingResults": "Affichage",
-  "dataInfo": "Ce tableau affiche les données récupérées depuis l'API JSONPlaceholder. Utilisez la zone de recherche pour filtrer les résultats."
+  "dataInfo": "Ce tableau affiche les données récupérées depuis l'API JSONPlaceholder. Utilisez la zone de recherche pour filtrer les résultats.",
+  "itemsPerPage": "Éléments par page",
+  "previous": "Précédent",
+  "next": "Suivant",
+  "page": "Page",
+  "of": "sur"
 }

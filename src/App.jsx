@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
-import "font-awesome/css/font-awesome.min.css";
+import "@fortawesome/fontawesome-free/css/all.min.css";
 import "./App.css";
 import { Navigation } from "./components/Navigation";
 import { LanguageSwitcher } from "./components/LanguageSwitcher";

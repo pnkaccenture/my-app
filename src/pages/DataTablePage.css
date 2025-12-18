@@ -22,6 +22,35 @@
   padding: 0.4rem 0.6rem;
 }
 
+.pagination-sm .page-link {
+  padding: 0.4rem 0.8rem;
+  font-size: 0.875rem;
+}
+
+.page-link {
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.page-link:hover:not(.disabled) {
+  transform: translateY(-1px);
+}
+
+.page-item.active .page-link {
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+.page-item.disabled .page-link {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.form-select-sm {
+  padding: 0.25rem 2rem 0.25rem 0.5rem;
+  font-size: 0.875rem;
+}
+
 @media (max-width: 768px) {
   .table {
     font-size: 0.85rem;
@@ -29,5 +58,19 @@
 
   .text-truncate-column {
     max-width: 150px;
+  }
+
+  .pagination-sm .page-link {
+    padding: 0.3rem 0.5rem;
+    font-size: 0.75rem;
+  }
+
+  .d-flex {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .card-footer .d-flex {
+    gap: 1rem;
   }
 }

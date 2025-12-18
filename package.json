@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.1.0",
     "bootstrap": "^5.3.8",
-    "font-awesome": "^4.7.0",
     "i18next": "^25.7.3",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",

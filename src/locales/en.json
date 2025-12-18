@@ -36,5 +36,10 @@
   "body": "Content",
   "noResults": "No results found",
   "showingResults": "Showing",
-  "dataInfo": "This table displays data fetched from JSONPlaceholder API. Use the search box to filter results."
+  "dataInfo": "This table displays data fetched from JSONPlaceholder API. Use the search box to filter results.",
+  "itemsPerPage": "Items per page",
+  "previous": "Previous",
+  "next": "Next",
+  "page": "Page",
+  "of": "of"
 }
